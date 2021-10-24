@@ -1,4 +1,5 @@
-# initialize-middle-name
+# Initialize-middle-name
+
 Initialize the middle name(s)
 
 # LICENCE
