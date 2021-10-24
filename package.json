@@ -4,14 +4,14 @@
   "description": "Initialize the middle name(s)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest --watchAll"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/gokce-pow/initialize-middle-name.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Gokce Dalkiran",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/gokce-pow/initialize-middle-name/issues"
