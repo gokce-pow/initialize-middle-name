@@ -1,8 +1,18 @@
 # Initialize-middle-name
 
-Initialize the middle name(s)
+A Node.js library for initializing and capitalizing the middle name(s)
 
-# LICENCE
+## Installation
+
+Install `initialize-middle-name` locally via npm:
+
+`npm i initialize-middle-name`
+
+## Implementing
+
+`const initializeMiddleName = require('initialize-middle-name')`
+
+## LICENCE
 
 ```
 MIT License
